@@ -3,6 +3,7 @@
   "version": "1.2.6",
   "description": "A Tailwind CSS powered datepicker built with vanilla JavaScript and Flowbite",
   "module": "js/main.js",
+  "types": "types/main.d.ts",
   "exports": {
     ".": "./js/main.js",
     "./Datepicker": "./js/Datepicker.js",
