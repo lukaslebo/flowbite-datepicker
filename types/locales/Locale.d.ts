@@ -4,8 +4,8 @@ export interface Locale {
     daysMin: string[];
     months: string[];
     monthsShort: string[];
-    monthsTitle: string;
+    monthsTitle?: string;
     today: string;
     clear: string;
-    titleFormat: string;
+    titleFormat?: string;
 }

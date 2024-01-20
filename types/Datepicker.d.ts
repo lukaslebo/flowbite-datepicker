@@ -1,6 +1,6 @@
 import {Options} from "./options/Options";
 import DateRangePicker from "./DateRangePicker";
-import {Locale} from "./i18n/Locale";
+import {Locale} from "./locales/Locale";
 
 export default class Datepicker {
     constructor(element: Element);
